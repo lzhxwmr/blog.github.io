@@ -27,7 +27,7 @@ catgories:
 ### 使用体验
 Disqus似乎最大的缺点在于墙内无法访问，而Valine是基于Leancloud部署，因此其打开速度相对来说好很多。
 ### 部署步骤
-#### Disqus
+#### Disqus的部署
 1. 去Disqus注册一个账号，新建一个应用（评论）
 2. 在theme/next下编辑<span id="inline-green">_config.yml</span>
    找到disuqs字段，修改enable为true，然后将Disqus上注册的应用的id填到shortname上
@@ -36,7 +36,7 @@ disqus:
   enable: true
   shortname: your_id
 ```
-#### Valine
+#### Valine的部署
 1. 注册Leancloud账号，然后新建一个应用
 2. 将应用keys里面的AppID和AppKey拷贝到theme/next下编辑<span id="inline-green">_config.yml</span>的字段中
    字段修改如下
@@ -46,7 +46,6 @@ valine:
   appid: yoru_app_id
   appkey: your_app_key
 ```
-
 ## 自定义头像（Avatar）
 这是一个很简单的事情，总的来说就是
 - 找到想要的头像
