@@ -9,7 +9,7 @@ tags:
 	- 记录
 	- 主题自定义
 	- Theme customization
-catgories:
+categories:
 	- 教程
 	- 记录
 ---

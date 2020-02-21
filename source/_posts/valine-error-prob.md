@@ -8,7 +8,7 @@ tags:
     - Next Theme
     - conflict
     - 冲突
-catagories:
+categories:
 	- 记录
 	- 排错
 ---

@@ -8,7 +8,7 @@ tags:
 	- 博客
 	- 记录
 	- 部署
-catgories:
+categories:
 	- 教程
 	- 记录
 ---
