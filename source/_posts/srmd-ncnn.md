@@ -53,7 +53,7 @@ nmake install
 2. Vulkan_LIBRARY: %VULKAN_SDK%\Lib
 3. VULKAN_SDK: path-to-vulkan
 
-<center><img src="/img/srmd/1.png" width=50%></img></center>
+<center><img src="https://pan.skacg.com/?/images/2020/03/03/djog4aUNj1/1.png" width=50%></img></center>
 
 其中VULKAN_SDK是安装好就自动设置好了的，只需配置1、2即可。
 
@@ -113,11 +113,11 @@ cmake -B build\
 打开`build/srmd-ncnn-vulkan.sln`
 将solution configuration中的Debug修改为Release
 
-<center><img src="/img/srmd/2.png" width=50%></img></center>
+<center><img src="https://pan.skacg.com/?/images/2020/03/03/fjfuOlcMlx/2.png" width=50%></img></center>
 
 然后右键srmd-ncnn-vulkan进行编译。
 
-<center><img src="/img/srmd/3.png" width=50%></img></center>
+<center><img src="https://pan.skacg.com/?/images/2020/03/03/vrob7y4VfI/3.png" width=50%></img></center>
 
 提示编译成功后即可在bulid目录下的Release中找到生成的exe
 
