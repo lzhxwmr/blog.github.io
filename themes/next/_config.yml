@@ -167,7 +167,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /uploads/avatar.png
+  url: https://cdn.jsdelivr.net/gh/gitosun/yedetuku/2020/08/01/934e72.png
   # If true, the avatar will be dispalyed in circle.
   rounded: true
   # If true, the avatar will be rotated with the cursor.
@@ -703,7 +703,7 @@ cnzz_siteid:
 # AppID and AppKey are recommended to be the same as valine's for counter compatibility.
 # Do not enable both `valine.visitor` and `leancloud_visitors`.
 leancloud_visitors:
-  enable: true
+  enable: false
   app_id: EuVDrsbhwzQqhrqHbUcLTkPl-gzGzoHsz # <app_id>
   app_key: JtnIQSCLGL5cSmYoxdGzG7jG # <app_key>
   # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security
