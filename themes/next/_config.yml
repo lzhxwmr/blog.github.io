@@ -40,8 +40,10 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /uploads/favicon-16x16-next.png
-  medium: /uploads/favicon-32x32-next.png
+  # small: /uploads/favicon-16x16-next.png
+  # medium: /uploads/favicon-32x32-next.png
+  small: https://cdn.jsdelivr.net/gh/gitosun/yedetuku/2020/08/01/934e72.png
+  medium: https://cdn.jsdelivr.net/gh/gitosun/yedetuku/2020/08/01/934e72.png
   apple_touch_icon: /uploads/apple-touch-icon-next.png
   safari_pinned_tab: /uploads/logo.svg
   #android_manifest: /images/manifest.json
