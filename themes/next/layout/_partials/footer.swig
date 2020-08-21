@@ -69,5 +69,5 @@
     <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ theme.add_this_id }}" async="async"></script>
   </div>
 {%- endif %}
-
+<script async defer data-website-id="d6bc2b7a-84c4-4c97-b76c-e8fccb61d44c" src="http://um.oaak.eu.org/umami.js"></script>
 {{- next_inject('footer') }}
