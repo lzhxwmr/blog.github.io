@@ -12,6 +12,16 @@ categories:
 **这篇主要记录了从Csinspiration上扒下来的列表以供备份使用。**
 <!-- more -->
 
+> 下列图表通过脚本生成：[Github](https://github.com/lzhxwmr/getTable)
+>
+> 注意需要先执行geturl然后再getprobs
+>
+> 可以自行修改getprobs里面的格式来满足需求（例如前面加上一列'[]'来作为练习记录）
+>
+> 最后输出为markdown文件
+
+
+
 ## Array
 
 |题号   |题目链接  |讲解链接  |说明  |

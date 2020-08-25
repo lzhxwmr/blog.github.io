@@ -11,9 +11,12 @@ categories:
     - 日志
     - 教程
 ---
-**自从VS Code更新了之后，Java方面使用Eclipse功能的插件需求JDK 11+来使用了。这里记录一下多版本Java管理。**
+> 自从VS Code更新了之后，Java方面使用Eclipse功能的插件需求JDK 11+来使用了。这里记录一下多版本Java管理。
+
 <!-- more -->
+
 ## 现有的环境
+
 现有的环境有<span id="inline-blue">JDK8</span>。现在需要完成的事情就是安装上<span id="inline-green">JDK11</span>并且配置好多版本管理。
 通过`java -version`可以看到现在的版本
 
