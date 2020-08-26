@@ -10,7 +10,7 @@ before_install:
 - git config --global user.name "lzhxwmr"
 - git config --global user.email "lzhxwmr@gmail.com"
 - sed -i'' "s~git@github.com:lzhxwmr/blog.github.io.git~https://${ACCESS_TOKEN}@github.com/lzhxwmr/blog.github.io.git~" _config.yml
-- cat _config.yml | grep repo
+- cat ${ACCESS_TOKEN}
 
 install:
 - npm install hexo-cli -g
