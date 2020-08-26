@@ -9,7 +9,7 @@ categories:
     - 记录
     - 刷题
 ---
-**这篇主要记录了从Csinspiration上扒下来的列表以供备份使用。**
+> 这篇主要记录了从Csinspiration上扒下来的列表以供备份使用。
 <!-- more -->
 
 > 下列图表通过脚本生成：[Github](https://github.com/lzhxwmr/getTable)

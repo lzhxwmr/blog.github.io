@@ -13,7 +13,7 @@ categories:
     - 记录
     - 编译
 ---
-**nihui大佬！！！**
+>nihui大佬！！！
 <!-- more -->
 [推特膜拜入口](https://twitter.com/nihui/status/1230117266747875328?s=20)
 
