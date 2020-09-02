@@ -10,16 +10,20 @@ $comment-bg-color = #fff;
 $site-author-image-border-color = #ddd;
 $b2t-bg-dark = $orange - 20%;
 $b2t-bg = $blue+50%;
+$blkquote-bg = #f6f6f6;
+$blkquote-bg-dark = #262626;
 
 :root {
     --comment-bg-color: $comment-bg-color;
     --b2t-bg-color: $b2t-bg;
+    --blk-bg-color: $blkquote-bg;
 }
 
 if (hexo-config('darkmode')) {
     @media (prefers-color-scheme: dark) {
         :root {
             --b2t-bg-color:$b2t-bg-dark;
+            --blk-bg-color: $blkquote-bg-dark;
         }
     }
 }
