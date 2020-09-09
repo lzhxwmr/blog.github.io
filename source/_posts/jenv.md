@@ -123,6 +123,6 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.231-b11, mixed mode)
 即可。
 <span id="spoiler">如果不是JDT/VS Code，谁又想折腾这种东西呢</span>
 
-## 参考链接
-1. https://segmentfault.com/a/1190000013131276
-2. https://blog.csdn.net/qq_21808961/article/details/102256150
+> 参考链接
+>1. https://segmentfault.com/a/1190000013131276
+>2. https://blog.csdn.net/qq_21808961/article/details/102256150

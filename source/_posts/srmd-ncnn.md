@@ -135,6 +135,5 @@ NO NO NO
 
 感谢nihui大佬！
 
-参考链接：
-
-1. https://github.com/Tencent/ncnn/wiki/how-to-build#build-for-windows-x64-using-visual-studio-community-2017
+>参考链接：
+>1. https://github.com/Tencent/ncnn/wiki/how-to-build#build-for-windows-x64-using-visual-studio-community-2017

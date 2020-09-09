@@ -107,8 +107,8 @@ vendors:
 
 下一篇有关内容可能会在把样式配置得更满意之后，记录一下个人样式配置心得。
 
-# 参考链接
-* https://github.com/next-theme/hexo-theme-next/issues/4
-* https://github.com/next-theme/hexo-theme-next/issues/3
-* https://whjkm.github.io/2018/07/17/Hexo%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7%E5%92%8CNext%E4%B8%BB%E9%A2%98%E5%8D%87%E7%BA%A7%E4%B9%8B%E5%9D%91/
-* https://github.com/theme-next/theme-next-canvas-nest
+># 参考链接
+>* https://github.com/next-theme/hexo-theme-next/issues/4
+>* https://github.com/next-theme/hexo-theme-next/issues/3
+>* https://whjkm.github.io/2018/07/17/Hexo%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7%E5%92%8CNext%E4%B8%BB%E9%A2%98%E5%8D%87%E7%BA%A7%E4%B9%8B%E5%9D%91/
+>* https://github.com/theme-next/theme-next-canvas-nest
