@@ -1,5 +1,5 @@
 ---
-title: Worth(DTK rental) > (500 - 200)USD?
+title: Apple? Yes!
 date: 2021-02-04 11:48:05
 tags:
 	- 吐槽
@@ -16,7 +16,7 @@ categories:
 	- 日志
 ---
 
-> 因为苹果已经对政策作出修改，阅读本文的时候请一定要看到最后
+> 因为苹果已经对政策作出修改，阅读本文的时候请一定要看到最后。本文原标题为《Worth(DTK rental) > (500 - 200)USD?》
 
 <!-- more -->
 
